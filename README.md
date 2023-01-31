@@ -53,10 +53,10 @@ var car2 = {
 - Classes are essentially user-defined data types. 
 - Classes are where we create a blueprint for the structure of methods and attributes. 
 - Individual objects are instantiated from this blueprint.
-- In our Car Racing game class example, attributes include name & color, while methods include move().
-- In the car racing example, here’s how a programmer could think about organizing an OOP:
-1. Create a class for all cars as a blueprint of information and behaviors (methods) that all cars will have, regardless of type. 
-2. Create objects from the  class that represent car.
+  - In our Car Racing game class example, attributes include name & color, while methods include move().
+  - In the car racing example, here’s how a programmer could think about organizing an OOP:
+    1. Create a class for all cars as a blueprint of information and behaviors (methods) that all cars will have, regardless of type. 
+    2. Create objects from the  class that represent car.
 - EG:
 ```js
 class Car {
