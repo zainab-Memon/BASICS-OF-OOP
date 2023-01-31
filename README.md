@@ -77,3 +77,13 @@ const car1 = new Car("Toyota", "blue");
 ## OOP
 - Object-Oriented Programming (OOP) is a programming paradigm in computer science that relies on the concept of classes and objects rathe than functions. 
 - It is used to structure a software program into simple, reusable pieces of code blueprints called classes, which are used to create individual instances of objects.
+## Four Principles of OOP
+- The four pillars of object-oriented programming are:
+  - Inheritance: child classes inherit data and behaviors from the parent class.
+  - Encapsulation: all important information is contained inside an object and only select information is exposed.
+  - Abstraction:  Objects only reveal internal mechanisms that are relevant for the use of other objects, hiding any unnecessary implementation code.
+  - Polymorphism: many methods can do the same task.
+    - Functions in programming take different arguments inside parenthesis. 
+    - Polymorphism is nothing but with the same function name, different arguments passed to get the result.
+    - For e.g :- function called sum can take 2 arguments or 3 arguments.
+    - sum(3,4)  sum(10,23,56)
