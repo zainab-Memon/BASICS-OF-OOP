@@ -14,7 +14,7 @@
   - Each of which will contain different data.
   - Now it will be easy, if you could group each of these variables related to one car together. 
   - So that you can deal with them as one entity.
-- This is where, **STRUCTURES** in C were introduced. 
+- This is when, **STRUCTURES** in C were introduced. 
 ### Structures
 - Structures allow programmers to store data of differnt data types together, which is not the case with Arrays. 
   - So, you can store all the pieces of data related to the car in a single structure.
