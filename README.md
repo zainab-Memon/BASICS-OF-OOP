@@ -16,7 +16,7 @@
   - So that you can deal with them as one entity.
 - This is when, **STRUCTURES** in C were introduced. 
 ### Structures
-- Structures allow programmers to store data of differnt data types together, which is not the case with Arrays. 
+- Structures allow programmers to store data of different data types together, which is not the case with Arrays. 
   - So, you can store all the pieces of data related to the car in a single structure.
   - You can also store all the car structures together in one structure that represents all of the cars.
 ![image](https://user-images.githubusercontent.com/88162824/215736969-00f3f81a-b04d-4a9a-b511-5848ee6dc848.png)
