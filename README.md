@@ -74,4 +74,6 @@ class Car {
 //instantiate a new object of the Car class, and individual car named car1
 const car1 = new Car("Toyota", "blue");
 ```
-
+## OOP
+- Object-Oriented Programming (OOP) is a programming paradigm in computer science that relies on the concept of classes and objects rathe than functions. 
+- It is used to structure a software program into simple, reusable pieces of code blueprints called classes, which are used to create individual instances of objects.
