@@ -8,7 +8,7 @@
   - Boolean etc 
 - However, when programmers wanted to group similar pieces of data together, primitive data types were of no use then.
 - **Eg:** 
-  - You are a developing a car racing game and you want to program a car into the game. 
+  - You are developing a car racing game and you want to program a car into that game. 
   - You will need to define plenty of variables such as color, speed, position and a boolean to define whether it won or lost the game.
   - Now, you will need each of these variables for each car in the game. 
   - Each of which will contain different data.
